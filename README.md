@@ -6,7 +6,7 @@ Documentação de APIs da Zion WMS com classes Model e exemplos de chamadas util
 
 
 <a name="documentation-for-api-endpoints"></a>
-## Documentation for API Endpoints
+## Endpoints
 
 
 Class | Method | HTTP request | Description
