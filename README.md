@@ -13,7 +13,7 @@ Documentação de APIs da Zion WMS com classes Model e exemplos de chamadas util
 
 
 ## Processo de Inventário
-<img src="/img/INV.jpg"/>
+<img src="/imgs/INV.jpg"/>
 
 
 
