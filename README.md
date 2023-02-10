@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/AfWNR5nBrzKPq9A480x360?&amp;rs=1&amp;pid=ImgDet" height="22px">
+<img src="https://th.bing.com/th/id/AfWNR5nBrzKPq9A480x360?&amp;rs=1&amp;pid=ImgDet" height="30px">
 
 # Integração Pier x Zion
 
