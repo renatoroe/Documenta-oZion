@@ -28,6 +28,8 @@ Este campo e outras possíveis alterações que sejam necessárias no momento do
 
 
 ## Processo de Inventário
+Dentro do processo de inventário a principal integração será do Zion para o frente cliente, atualizando o saldo após a finalização do processo.
+
 <img src="/imgs/INV.jpg"/>
 
 
