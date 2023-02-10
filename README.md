@@ -4,6 +4,19 @@
 
 Documentação de APIs da Zion WMS com classes Model e exemplos de chamadas utilizando c# 
 
+## Processo de Recebimento
+<img src="/img/REC.jpg"/>
+
+
+## Processo de Expedição
+
+
+
+## Processo de Inventário
+
+
+
+
 
 <a name="documentation-for-api-endpoints"></a>
 ## Endpoints
