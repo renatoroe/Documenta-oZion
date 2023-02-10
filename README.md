@@ -9,11 +9,11 @@ Documentação de APIs da Zion WMS com classes Model e exemplos de chamadas util
 
 
 ## Processo de Expedição
-
+<img src="/imgs/EXP.jpg"/>
 
 
 ## Processo de Inventário
-
+<img src="/img/INV.jpg"/>
 
 
 
