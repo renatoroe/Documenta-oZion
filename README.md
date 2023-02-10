@@ -4,11 +4,26 @@
 
 Documentação de APIs da Zion WMS com classes Model e exemplos de chamadas utilizando c# 
 
+Neste documento vamos detalhar as integrações que podem ser realizadas de forma direta ou utilizando um conector que facilite a integração, a Zion disponibiliza uma série de API's que estão todas listas neste documento e todas com as clasees de modelo em C# para facilitar o desenvolvimento. 
+
+O processo de implantação da Zion contempla 400horas de um profissional dedicado, dentro destas 400 horas estão inclusos os detalhes do campos que fazem sentido serem utilziados no processo pier e também as rotas que serão utilizadas do lado Pier, e as rotas do lado Zion, além dos outros sistemas que serão integrados ao processso como o Totvs e o TMS.
+
+
 ## Processo de Recebimento
+O Fluxo de recebimento contempla desde o agendamento que pode ser realizado tanto no portal do fornecedor e integrado ao recebimento utilizando o endponint de documento de entrada, quanto realizado diretamento no WMS da Zion, considerando todas as regras de horário de docas e etc.
+
+Nesta etapa contempla também o processo de comunicação com o Totvs, a Tamiris que é a atual gerente de relacionamentos na Zion esta desenolvendo um novo fornecedor que ainda não foi nos passado na qual ele já criou os modulos de integração com o Zion, podendo assim facilitar/acelerar o nosso processo.
+
 <img src="/imgs/REC.jpg"/>
 
 
 ## Processo de Expedição
+Este fluxo contempla desde o momento que o pedido nasce no sistema até o momento de integrações de baixa de entrega, o processo do TMS ainda precisa ser defnido e qual o sistema será utilizado
+
+No endpoint de criar o documento de saída ainda será necessário incluir o campo "dataHoraDoca" pois é através dele que a Zion incluirá o filtro na tela de planejameto de separação, além de usar outros filtros como quantidade de linhas, grupo de produtos, todos customizaveis
+
+Este campo e outras possíveis alterações que sejam necessárias no momento do desenvolvimento serão apontadas nas reuniões de requisitos finais no momento da implantação.
+
 <img src="/imgs/EXP.jpg"/>
 
 
